@@ -22,7 +22,7 @@ Po otwarciu wygląda prawie jak każdy inny plik pomocy. Zwiedzając go i zaznac
 
 Lista ewakuacyjna? No dobra, patrzymy!
 
-Widzimy z pozoru normalną stronę, lecz widzimy, że pasek pionowy pasek przewijania jest jakoś tak podejrzanie długi:
+Widzimy z pozoru normalną stronę, lecz widzimy, że pionowy pasek przewijania jest jakoś tak podejrzanie długi:
 
 ![Na pierwszy rzut oka - zwykła strona](/images/ciekawostka1/hh_mYFylbjQDm.png)
 
@@ -34,9 +34,7 @@ Po odczekaniu chwili naszym oczom ukazuje się taki oto demotywator:
 
 ![Na pierwszy rzut oka - zwykła strona](/images/ciekawostka1/hh_5OviT472li.png)
 
-**No taka sytuacja:)**
-
-Czy wystąpiło to w innej wersji programu? \
+Czy ten easter egg znajdował się też w innych wersjach programu? \
 Czy producent programu o tym wiedział? \
 Czy setki osób które codziennie w pracy używały tego programu o tym wiedziały? \
 Te pytania pozostaną raczej bez odpowiedzi.
