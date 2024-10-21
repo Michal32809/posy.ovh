@@ -6,7 +6,7 @@ title: Easter egg w programie Iridum RCP
 description: Easter egg w programie Iridum RCP
 ---
 
-Pewnego dnia przeglądając zawartość jednego z komputerów pozostałych po zamknięciu znanej w Polsce sieci wielkopowierzchniowych sklepów sporzywczych, natrafiłem na folder z programem "Iridium".
+Pewnego dnia przeglądając zawartość jednego z komputerów pozostałych po zamknięciu znanej w Polsce sieci wielkopowierzchniowych sklepów spożywczych, natrafiłem na folder z programem "Iridium".
 
 Po bliższym przyjrzeniu okazało się, że jest to program służący do rejestracji czasu pracy o nazwie IridumRCP i został wyprodukowany przez polską firmę Unicard.
 
@@ -20,7 +20,7 @@ Po otwarciu wygląda prawie jak każdy inny plik pomocy. Zwiedzając go i zaznac
 
 ![Strona z ukrytym tekstem](/images/ciekawostka1/hh_XhF7gfrHpJ.png)
 
-Lista eakuacyjna? No dobra, patrzymy!
+Lista ewakuacyjna? No dobra, patrzymy!
 
 Widzimy z pozoru normalną stronę, lecz widzimy, że pasek pionowy pasek przewijania jest jakoś tak podejrzanie długi:
 
