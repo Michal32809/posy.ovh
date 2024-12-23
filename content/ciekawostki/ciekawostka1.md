@@ -2,13 +2,13 @@
 date: 2024-10-20
 lastmod: 2024-10-20
 publishdate: 2024-10-20
-title: Easter egg w programie Iridum RCP
-description: Easter egg w programie Iridum RCP
+title: Easter egg w programie Iridium RCP
+description: Easter egg w programie Iridium RCP
 ---
 
 Pewnego dnia przeglądając zawartość jednego z komputerów pozostałych po zamknięciu znanej w Polsce sieci wielkopowierzchniowych sklepów spożywczych, natrafiłem na folder z programem "Iridium".
 
-Po bliższym przyjrzeniu okazało się, że jest to program służący do rejestracji czasu pracy o nazwie IridumRCP i został wyprodukowany przez polską firmę Unicard.
+Po bliższym przyjrzeniu okazało się, że jest to program służący do rejestracji czasu pracy o nazwie IridiumRCP i został wyprodukowany przez polską firmę Unicard.
 
 Samym programem nie będziemy się na razie zajmować, natomiast zajmiemy się pewnym easter egg'iem znajdującym się w pliku pomocy dołączonym do programu.
 

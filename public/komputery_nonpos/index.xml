@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Strona główna on POSy.ovh</title>
-    <link>https://posy.ovh/</link>
-    <description>Recent content in Strona główna on POSy.ovh</description>
+    <title>Komputery non-POS on POSy.ovh</title>
+    <link>https://posy.ovh/komputery_nonpos/</link>
+    <description>Recent content in Komputery non-POS on POSy.ovh</description>
     <generator>Hugo</generator>
     <language>pl-pl</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://posy.ovh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://posy.ovh/komputery_nonpos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dell Optiplex 7010 USFF</title>
       <link>https://posy.ovh/komputery_nonpos/dell7010usff/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://posy.ovh/komputery_nonpos/dell7010usff/</guid>
       <description>No dzisiaj mamy takie coś. Komputer Dell Optiplex 7010 USFF. Taki fajny dosyć stary mały komputer, idealny np. do użycia z programem do rejestracji czasu pracy z ostatniej ciekawostki (wszelkie nawiązania do poprzedniego wpisu przypuszczalnie nie są przypadkowe).&#xA;No ale dobra, specyfikacja:&#xA;Procesor: Intel Core i5-3470S 2,90GHz Pamięć RAM: Hynix 4GB DDR3 Dysk: Toshiba 320GB HDD Grafika: Intel HD Graphics 2500 Napęd DVD-ROM Windows 10 Enterprise 2016 LTSB (w prawdzie niezgodny z licencją, ale to nie szkodzi) Cały komputer rozbebeszony: Poszczególne części:</description>
-    </item>
-    <item>
-      <title>Easter egg w programie Iridium RCP</title>
-      <link>https://posy.ovh/ciekawostki/ciekawostka1/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://posy.ovh/ciekawostki/ciekawostka1/</guid>
-      <description>Pewnego dnia przeglądając zawartość jednego z komputerów pozostałych po zamknięciu znanej w Polsce sieci wielkopowierzchniowych sklepów spożywczych, natrafiłem na folder z programem &amp;ldquo;Iridium&amp;rdquo;.&#xA;Po bliższym przyjrzeniu okazało się, że jest to program służący do rejestracji czasu pracy o nazwie IridiumRCP i został wyprodukowany przez polską firmę Unicard.&#xA;Samym programem nie będziemy się na razie zajmować, natomiast zajmiemy się pewnym easter egg&amp;rsquo;iem znajdującym się w pliku pomocy dołączonym do programu.&#xA;Omawiany plik:</description>
     </item>
   </channel>
 </rss>
