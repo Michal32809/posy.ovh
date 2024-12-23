@@ -7,7 +7,9 @@ description: Dell Optiplex 7010 USFF
 ---
 No dzisiaj mamy takie coś. Komputer Dell Optiplex 7010 USFF. Taki fajny dosyć stary mały komputer, idealny np. do użycia z programem do rejestracji czasu pracy z ostatniej ciekawostki (wszelkie nawiązania do poprzedniego wpisu przypuszczalnie nie są przypadkowe).
 
-![Dell Optiplex 7010 USFF](/images/dell7010usff/IMG_20241109_135946602.jpg)
+![Dell Optiplex 7010 USFF (przód)](/images/dell7010usff/IMG_20241109_135946602.jpg)
+![Dell Optiplex 7010 USFF (tył)](/images/dell7010usff/IMG_20241109_135957685.jpg)
+![Dell Optiplex 7010 USFF (tabliczka)](/images/dell7010usff/IMG_20241109_140011576.jpg)
 
 **No ale dobra, specyfikacja:**
 - Procesor: Intel Core i5-3470S 2,90GHz
