@@ -4,7 +4,7 @@ DefaultContentLanguage = "pl"
 title = 'POSy.ovh'
 theme = 'hugo-theme-techdoc'
 [params]
-    description = "by Michał_32 ©2024"
+    description = "by Michał_32 ©2025"
     title = "POSy.ovh"
     custom_font_color = "#000000"
     custom_background_color = "#FF0000"
